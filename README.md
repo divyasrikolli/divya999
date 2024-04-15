@@ -6,7 +6,7 @@ v-music is a web application that allows users to search for music using the Spo
 
 To run this project locally, follow these steps:
 
-1. Clone this repository using `git clone https://github.com/Vaishnavikolalapudi/v-music1.git`
+1. Clone this repository using `git clone https://github.com/divyasrikolli/divya999.git`
 2. Install dependencies using `npm install`
 3. Start the development server using `npm start`
 
